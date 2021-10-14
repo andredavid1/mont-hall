@@ -18,6 +18,6 @@ a {
 }
 
 :root {
-  --area-porta-altura: 310px;
-  --area-porta-largura: 200px;
+  --area-porta-altura: calc(var(--area-porta-largura * 1.2));
+  --area-porta-largura: 15%;
 }
