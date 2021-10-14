@@ -1,4 +1,4 @@
-# Jogo Monty Hall
+# Jogo das portas (Padoxo de Monty Hall)
 
 Jogo desenvolvido durante curso de Next.js da Cod3r do professor Leonardo Leitão
 
